@@ -62,9 +62,11 @@
     ui/MainFrame.java   
 
 
-👤 Author
-Samprit Roy
-Java Intern – CodeAlpha
-GitHub: @Samprit74
+## 👤 Author
+
+**Samprit Roy**  
+Java Intern – CodeAlpha  
+GitHub: [@Samprit74](https://github.com/Samprit74)
+
 
 
