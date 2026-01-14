@@ -135,7 +135,7 @@ public class SidebarPanel extends JPanel {
         footer.setPreferredSize(new Dimension(230, 50));
         footer.setBorder(BorderFactory.createEmptyBorder(10, 15, 10, 15));
 
-        JLabel user = new JLabel("Logged in as: Admin");
+        JLabel user = new JLabel("Admin");
         user.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         user.setForeground(new Color(200, 200, 200));
 
